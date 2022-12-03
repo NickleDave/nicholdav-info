@@ -97,9 +97,9 @@ analytics:
 # Site Author
 author:
   name             : "David Aaron Nicholson"
-  avatar           : "/assets/images/headshot.jpg"
-  bio              : "researcher in artificial intelligence and computational cognitive neuroscience"
-  location         : "People's Republic of Takoma Park"
+  avatar           : "/assets/images/selfie.jpg"
+  bio              : "Research software engineer with expertise in artificial intelligence and computational cognitive neuroscience"
+  location         : "Charm City"
   email            : "nicholdav@gmail.com"
   github           : "NickleDave"
   twitter          : "nicholdav"
