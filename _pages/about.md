@@ -1,11 +1,9 @@
 ---
-permalink: /
+permalink: /about.html
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
+nav: "about"
 ---
 
 I am currently a machine intelligence engineer with
