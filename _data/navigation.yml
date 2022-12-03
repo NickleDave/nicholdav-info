@@ -1,12 +1,18 @@
 main:
-  - title: "Resume"
-    url: /assets/pdf/DavidAaronNicholson_resume.pdf
-
-  - title: "C.V."
-    url: /assets/pdf/DavidAaronNicholson_CV.pdf
-
-  - title: "Datasets"
-    url: /datasets/
+  - title: "About"
+    url: /about.html
 
   - title: "Blog"
     url: /blog.html
+
+about:
+  - title: ""
+    children:
+      - title: "Resume"
+        url: /assets/pdf/DavidAaronNicholson_resume.pdf
+
+      - title: "C.V."
+        url: /assets/pdf/DavidAaronNicholson_CV.pdf
+
+      - title: "Datasets"
+        url: /datasets/
