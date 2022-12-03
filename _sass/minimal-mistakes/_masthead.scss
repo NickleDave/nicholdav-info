@@ -49,8 +49,8 @@
   display: flex;
   -ms-flex-item-align: center;
   align-self: center;
-  font-weight: bold;
-  // z-index: 20;
+  font-weight: 700;
+  font-size: $type-size-1;
 }
 
 .site-subtitle {
