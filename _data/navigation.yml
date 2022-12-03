@@ -1,12 +1,12 @@
-# main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Resume"
+    url: /assets/pdf/DavidAaronNicholson_resume.pdf
+
+  - title: "C.V."
+    url: /assets/pdf/DavidAaronNicholson_CV.pdf
+
+  - title: "Datasets"
+    url: /datasets/
+
+  - title: "Blog"
+    url: /blog.html
