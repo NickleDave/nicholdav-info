@@ -3,8 +3,6 @@ permalink: /about.html
 title: "About me"
 excerpt: "About me"
 author_profile: true
-sidebar:
-  nav: "about"
 ---
 
 I am currently a machine intelligence engineer with
