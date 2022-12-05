@@ -6,7 +6,7 @@ SOURCEDIR=$(BASEDIR)
 DESTINATIONDIR=$(BASEDIR)/_site
 CONFFILE=$(BASEDIR)/_config.yml
 
-GITHUB_PAGES_REMOTE=git@github.com:nickledave/nicholdav.info.git
+GITHUB_PAGES_REMOTE=git@github.com:NickleDave/nicholdav.info.git
 GITHUB_PAGES_BRANCH=master
 
 help:
