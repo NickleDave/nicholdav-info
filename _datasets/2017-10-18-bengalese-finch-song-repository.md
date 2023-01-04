@@ -9,11 +9,15 @@ citation: 'Nicholson, David; Queen, Jonah E.; J. Sober, Samuel (2017): Bengalese
 ---
 
 A collection of song from four Bengalese finches recorded in the Sober lab at Emory University.
-Link:  
+
+Separate site for dataset:
+<https://nickledave.github.io/bfsongrepo/>
+
+Link to data on FigShare:
 <https://figshare.com/articles/Bengalese_Finch_song_repository/4805749>
 
 Used with
 [`hybrid-vocal-classifier`](https://hybrid-vocal-classifier.readthedocs.io/en/latest/)
-library to benchmark machine learning algorithms for labeling birdsong syllables  
+library to benchmark machine learning algorithms for labeling birdsong syllables
 and later with the `vak`  library to benchmark the `tweetynet` neural network
 architecture, in [this paper](https://www.biorxiv.org/content/10.1101/2020.08.28.272088v2).
