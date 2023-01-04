@@ -3,6 +3,7 @@ permalink: /about.html
 title: "About me"
 excerpt: "About me"
 author_profile: true
+toc: true
 ---
 
 I am currently a machine intelligence engineer with
@@ -51,3 +52,11 @@ Merengue after 2:00 A.M.
 In a previous life I was a
 [rock star](https://nickblueandtheheavysighs.bandcamp.com/releases)
 and an underground cartoonist.
+
+## [Publications](/publications/)
+
+## [Talks](/talks/)
+
+## [Datasets](/datasets/)
+
+## [Teaching](/teaching/)
