@@ -1,12 +1,12 @@
 ---
 title: "Thalamostriatal and cerebellothalamic pathways in a songbird, the Bengalese finch"
 collection: publications
-permalink: /publication/2018-03-01-thalamostriatal
+permalink: /publication/2018-03-09-thalamostriatal
 excerpt: 'Our results suggest the basal ganglia in the song system, like the mammalian basal ganglia, integrate feedback from the thalamic region to which they project as well as thalamic regions that receive cerebellar output.'
 date: 2018-03-09
 venue: 'Journal of Comparative Neurology'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://drive.google.com/file/d/1TKtVjv8RDJdVXhAT4Jwrsr9mmlEVjRV6/view?usp=share_link'
+citation: 'Nicholson, David A., Todd F. Roberts, and Samuel J. Sober. "Thalamostriatal and cerebellothalamic pathways in a songbird, the Bengalese finch." Journal of Comparative Neurology 526.9 (2018): 1550-1570.'
 ---
 
 ## Abstract
