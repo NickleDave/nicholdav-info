@@ -7,6 +7,9 @@ venue: "PyData NYC 2017"
 date: 2017-11-27
 location: "New York, New York"
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1XEDFpUGmqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Neural networks for speech-to-text avoid dividing speech into segments, such as syllables, but segmenting has important applications. We compare different neural networks for segmentation of vocalizations using the song of songbirds, which we study as neuroscientists. Initial results suggest a bidirectional LSTM-CNN architecture outperforms others in both segmentation and classification.
 
 Talk on YouTube: <https://youtu.be/1XEDFpUGmqs>

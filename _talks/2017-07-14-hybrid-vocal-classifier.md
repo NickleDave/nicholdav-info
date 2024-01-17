@@ -7,6 +7,9 @@ venue: "SciPy 2017"
 date: 2017-07-14
 location: "Austin, Texas"
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BwNeVNou9-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Talk on YouTube: <https://youtu.be/BwNeVNou9-s>
 
 ## Abstract
