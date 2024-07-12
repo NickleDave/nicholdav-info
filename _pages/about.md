@@ -8,23 +8,22 @@ toc: true
 
 ## Short version
 
-Research software engineer: sometimes more research, sometimes more software.
+Research software engineer: sometimes more software, sometimes more research.
 Personal site; opinions are my own.
 
 ## Longer version
 
 ### Software
 
-My experience in graduate school made me very aware of the role of software in science.  
+My experience in graduate school made me very aware of the role of software in science. 
 Today I am an active member of the scientific Python community.
 I use the core scientific Python libraries daily, 
 and I have also made (minor) contributions to some of those libraries. 
-See my GitHub profile here: https://github.com/NickleDave. 
-I am a reviewer and editor for [pyOpenSci](https://www.pyopensci.org/), as well as a past Editor in Chief,
-and I am one of chairs of the organizing committee for the [SciPy conference](https://conference.scipy.org/).
+See my GitHub profile here: <https://github.com/NickleDave>. 
 I am also the lead maintainer of a software community for acoustic communication research, VocalPy.
-For more on VocalPy, please see:
-<https://github.com/NickleDave#acoustic-communciation-in-animals-and-bioacoustics>.
+For more on VocalPy, please see <http://www.vocalpy.org/>. 
+Last but not least, I am a reviewer and editor for [pyOpenSci](https://www.pyopensci.org/), as well as a past Editor in Chief,
+and I am one of the chairs of the organizing committee for the [SciPy conference](https://conference.scipy.org/).
 
 ### Research
 
