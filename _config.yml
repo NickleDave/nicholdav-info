@@ -101,6 +101,10 @@ author:
   bio              : "Research software engineer with expertise in artificial intelligence and computational cognitive neuroscience"
   location         : "Charm City"
   email            : "nicholdav@gmail.com"
+  links:
+    - label: "Resume"
+      icon: "fas fa-fw fa-file"
+      url: "/assets/pdf/DavidAaronNicholson_resume.pdf"
   github           : "NickleDave"
   twitter          : "nicholdav"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=rs2xJh4AAAAJ&view_op=list_works&sortby=pubdate"
