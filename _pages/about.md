@@ -8,21 +8,31 @@ toc: true
 
 ## Short version
 
-Bad biologist, worse programmer.
-Cognitive scientist by accident, just like you.
+Research software engineer: sometimes more research, sometimes more software.
 Personal site; opinions are my own.
 
 ## Longer version
+
+### Software
+
+My experience in graduate school made me very aware of the role of software in science.  
+Today I am an active member of the scientific Python community.
+I use the core scientific Python libraries daily, 
+and I have also made (minor) contributions to some of those libraries. 
+See my GitHub profile here: https://github.com/NickleDave. 
+I am a reviewer and editor for [pyOpenSci](https://www.pyopensci.org/), as well as a past Editor in Chief,
+and I am one of chairs of the organizing committee for the [SciPy conference](https://conference.scipy.org/).
+I am also the lead maintainer of a software community for acoustic communication research, VocalPy.
+For more on VocalPy, please see:
+<https://github.com/NickleDave#acoustic-communciation-in-animals-and-bioacoustics>.
+
+### Research
 
 At heart I am a biologist, 
 but I borrow a lot from artificial intelligence, machine learning, cognition, and neuroscience.
 
 I care about how and why animals communicate, 
 and when I can I try to make that easier for everyone to study.
-For related libraries and tools I develop and maintain,
-please see:
-<https://github.com/NickleDave#acoustic-communciation-in-animals-and-bioacoustics>.
-
 My PhD was in neuroscience,
 and my post-doctoral work was in cognitive science.
 My [dissertation work](https://open.library.emory.edu/publications/emory%3Atrghv/)
@@ -44,6 +54,8 @@ I am also passionate about open scholarship,
 [broadly defined](https://thepsychologist.bps.org.uk/volume-33/november-2020/bropenscience-broken-science).
 I am a trained [Carpentries instructor](https://carpentries.org/become-instructor/),
 and helped found a [graduate data science group](https://data-science-for-scientists-atl.github.io/) at Emory.
+
+### Personal
 
 I like to hike, do a bad job of being an amateur birdwatcher, play video games, and fumble around on guitar.
 Before 2020 happened, I used to dance salsa and bachata.
