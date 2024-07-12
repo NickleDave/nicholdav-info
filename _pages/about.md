@@ -11,6 +11,9 @@ toc: true
 Research software engineer: sometimes more software, sometimes more research.
 Personal site; opinions are my own.
 
+My resume is [here]({{ site.baseurl }}{{post.url}}/assets/pdf/DavidAaronNicholson_resume.pdf) 
+(in case you're on your phone and can't see the links in the sidebar).
+
 ## Longer version
 
 ### Software
